@@ -1,177 +1,81 @@
-<p align="center">
-  <img src="logo.png" width="200">
-</p>
+# Adewale Olalekan — Cybersecurity Portfolio
 
+![Cybersecurity Banner](logo.png)
 
-# Cybersecurity Portfolio Projects
-
-This repository contains a collection of projects and case studies designed to practice and showcase skills in cybersecurity. Each project covers key concepts, from breach analysis to hands-on secure network simulation.
+**Cybersecurity Professional** | Threat Detection • Incident Response • Cloud Security • Vulnerability Assessment
 
 ---
 
-## Project 1: Incident Report: Malware Traffic Analysis
-A capstone project involving the forensic analysis of a network packet capture (pcap) to investigate a malware infection. This report details the full incident lifecycle from initial infection to C2 communication.
+## About Me
 
-### Key Activities:
-- Analyzed DNS and HTTP traffic in Wireshark to reconstruct the attack timeline.
-- Identified malicious file downloads, PowerShell payloads, and persistence mechanisms.
-- Uncovered primary and secondary Command & Control (C2) channels, including a RAT.
-- Compiled a detailed list of Indicators of Compromise (IOCs) and provided a three-tiered mitigation plan.
+I am a certified cybersecurity professional with the **Google Cybersecurity Professional Certificate**, **Microsoft Cybersecurity Analyst Professional Certificate**, and **ISC2 Certified in Cybersecurity**. 
 
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/malware_traffic_analysis/)
+Passionate about defensive security, I enjoy building practical skills in SOC operations, network analysis, malware investigation, and compliance auditing. This portfolio showcases hands-on projects that demonstrate my ability to detect threats, analyze incidents, secure networks, and manage risk.
 
----
+- **Location**: Abuja, Nigeria (WAT — UTC+1)
+- **Open to**: Remote Cybersecurity roles (SOC Analyst, Security Analyst, Junior Security Engineer)
+- **Availability**: Immediate
 
-## Project 2: Report - Internal Security Audit
-An internal security audit report for a fictional company, "Botium Toys." This project assesses the company's existing security controls and compliance posture against regulations like PCI DSS and GDPR.
-
-### Key Activities:
-- Assessed administrative, technical, and physical controls to identify gaps.
-- Evaluated the company's adherence to PCI DSS and GDPR compliance best practices.
-- Identified critical deficiencies, including a lack of encryption, access controls, and disaster recovery.
-- Provided a prioritized list of recommendations to mitigate risks and improve the overall security posture.
-
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/internal_security_audit/)
+[View Live Portfolio Website](https://adewaleolalekan.github.io/cybersecurity_portfolio/)  
+[Connect on LinkedIn](https://www.linkedin.com/in/adewale-olalekan-401455159/)
 
 ---
 
-## Project 3: Lab - VLAN Configuration & Inter-VLAN Routing
-A hands-on lab focused on network segmentation using Virtual LANs (VLANs) and enabling communication between them with a Layer 3 switch.
+## Skills & Tools
 
-### Lab Features:
-- Created and named two distinct VLANs (Admin & Guest).
-- Configured Switch Virtual Interfaces (SVIs) to act as default gateways.
-- Enabled IP routing on a Layer 3 switch to allow for inter-VLAN communication.
-- Verified connectivity between VLANs using ping.
+**Core Skills**  
+- Threat Detection & Incident Response  
+- Network Traffic Analysis  
+- Vulnerability Assessment & Management  
+- Security Auditing & Compliance  
+- Risk Assessment  
+- Malware Analysis Basics  
 
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/inter_vlan/)
+**Tools & Technologies**  
+- **Analysis**: Wireshark, OWASP ZAP, Microsoft Sentinel  
+- **Scanning**: OpenVAS, Nessus (Essentials)  
+- **Monitoring**: Wazuh, Elastic Stack  
+- **Networking**: Cisco Packet Tracer, VLANs, Firewall configuration  
+- **Frameworks**: NIST, MITRE ATT&CK, GDPR, ISO 27001, PCI DSS  
 
----
-
-## Project 4: Lab - Wireshark Traffic Capture & Analysis
-A practical lab involving the capture and analysis of live network traffic using Wireshark to identify protocols, detect anomalies, and assess security posture.
-
-### Lab Highlights:
-- Captured live network traffic during a typical user session..
-- Analyzed protocol distribution (QUIC, TCP, UDP) and encryption levels.
-- Identified potential security threats, including UDP port scanning and DNS tunneling characteristics.
-
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/wireshark_traffic_analysis/)
-
----
-
-## Project 5: Case Study - Risk Assessment for a Fintech Company
-A comprehensive risk assessment for a fictional fintech company, "NextGen Solutions." This project involves identifying critical assets, analyzing threats, and developing a prioritized risk register and mitigation plan.
-
-### Key Activities:
-- Defined the scope of the assessment, including key assets and security domains.
-- Created a risk register identifying threats like phishing, insider misuse, and API exploits.
-- Developed a risk matrix to prioritize vulnerabilities based on impact and likelihood.
-- Proposed detailed mitigation strategies for top-priority risks.
-
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/basic_risk_assessment/)
+**Certifications**  
+- Google Cybersecurity Professional Certificate  
+- Microsoft Cybersecurity Analyst Professional Certificate  
+- ISC2 Certified in Cybersecurity (CC)
 
 ---
 
-## Project 6: Report - GDPR Compliance Checklist for a Fintech Company
-An external compliance officer's report for a fictional fintech company, "NextGen Solutions." This project applies GDPR principles to a specific business context, providing actionable recommendations.
+## Featured Projects
 
-### Key Features:
-- Outlines key GDPR requirements, from lawful basis for processing to data subject rights.
-- Provides a detailed, actionable checklist for tracking compliance status across an organization.
+| Project | Description | Key Skills |
+|---------|-------------|----------|
+| **[Malware Traffic Analysis](https://adewaleolalekan.github.io/cybersecurity_portfolio/malware_traffic_analysis/)** | Full incident investigation of a malware infection using packet capture analysis | Wireshark, Threat Hunting, Incident Response |
+| **[Internal Security Audit](https://adewaleolalekan.github.io/cybersecurity_portfolio/internal_security_audit/)** | Comprehensive audit of a fictional organization with findings and recommendations | Auditing, Risk Assessment, Compliance |
+| **[Wireshark Traffic Analysis](https://adewaleolalekan.github.io/cybersecurity_portfolio/wireshark_traffic_analysis/)** | Deep packet inspection and anomaly detection | Network Forensics |
+| **[OWASP ZAP Vulnerability Scan](https://adewaleolalekan.github.io/cybersecurity_portfolio/zap_vulnerability_scan/)** | Web application vulnerability assessment and remediation | Penetration Testing Basics |
+| **[Secure Network Design](https://adewaleolalekan.github.io/cybersecurity_portfolio/secure_network/)** | Implementation of secure network architecture with segmentation | Network Security, VLANs, Firewalls |
 
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/gdpr_checklist/)
-
----
-
-## Project 7: Lab - Implementing RBAC in Linux
-A hands-on lab demonstrating the configuration of Role-Based Access Control on a Linux file system using standard permissions and Access Control Lists (ACLs).
-
-### Key Activities:
-- Defined roles (Admin, Staff, Guest) with specific, multi-layered permissions.
-- Used chmod, chown, and setfacl to implement the access control policy.
-- Tested permissions for each role to verify the configuration and enforce least privilege.
-- Documented the importance of ACLs for providing granular access beyond standard Unix permissions.
-
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/rbac/)
+→ See the full list of projects in the repository folders.
 
 ---
 
-## Project 8: Lab - Secure Network Topology Design
-A lab focused on designing and implementing a secure network for a small office using Cisco Packet Tracer. This project demonstrates a defense-in-depth strategy.
+## Certifications
 
-### Key Features:
-- Designed a segmented network with distinct Office, Guest, and DMZ zones using VLANs.
-- Configured a Cisco ASA firewall with security levels and explicit access control rules.
-- Isolated the public-facing web server in a DMZ to protect the internal network.
-- Tested firewall rules to verify that traffic between zones was correctly blocked or permitted.
-
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/secure_network/)
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/945c2a4a-d516-4244-85fb-be6c8f7820c0/public_url)
+- [Microsoft Cybersecurity Analyst Professional Certificate](https://coursera.org/verify/professional-cert/AEXA8H2ZJ2BB)
+- [ISC2 Certified in Cybersecurity](#)
 
 ---
 
-## Project 9: Lab - Web Application Vulnerability Scan
-A vulnerability assessment of the Damn Vulnerable Web Application (DVWA) using OWASP ZAP and manual testing techniques.
+## Contact
 
-### Key Activities:
-- Performed passive and active scans to identify common web application vulnerabilities.
-- Manually tested and validated high-severity findings like SQL Injection, XSS, and Command Injection.
-- Provided proof-of-concept payloads and observed results for each validated vulnerability.
-- Developed a clear remediation plan for each identified issue.
+I'm actively looking for **remote cybersecurity opportunities**. Feel free to reach out!
 
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/zap_vulnerability_scan/)
+- Email: [adewale.olalekan@gmail.com](mailto:adewale.olalekan@gmail.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/adewale-olalekan-401455159/)
+- Portfolio Site: [adewaleolalekan.github.io/cybersecurity_portfolio](https://adewaleolalekan.github.io/cybersecurity_portfolio/)
 
 ---
 
-## Project 10: Case Study - The Equifax Data Breach
-A research report analyzing the 2017 Equifax data breach. This case study breaks down the attack timeline, root causes, and impact, drawing critical lessons for organizational security.
-
-### Key Analysis Points:
-- Detailed timeline of the breach events from vulnerability disclosure to public announcement.
-- Analysis of the primary attack vector (Apache Struts vulnerability) and compounding failures.
-- Examination of the financial, reputational, and operational impacts.
-- Actionable recommendations for preventing similar incidents in any organization.
-
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/equifax_data_breach/)
-
----
-
-## Project 11: Lab - Simple LAN with Cisco Packet Tracer
-A hands-on lab demonstrating the creation and testing of a basic Local Area Network (LAN) using Cisco Packet Tracer on a Linux system.
-
-### Lab Features:
-- Built a star topology with two PCs and a central switch.
-- Configured static IP addresses and subnet masks on end devices.
-- Verified end-to-end connectivity using the ping command.
-- Demonstrates foundational skills in networking, simulation, and troubleshooting.
-
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/simple_network/)
-
----
-
-## Project 12: Article - The Cybersecurity Compass: A Guide to Ethical Decision-Making
-An article exploring the core ethical principles and legal boundaries that guide cybersecurity professionals. This piece discusses the complexities of counterattacks, confidentiality, and privacy protection.
-
-### Lab Features:
-- The legal and ethical reasons why counterattacks are generally forbidden.
-- The foundational principles of confidentiality, privacy protection, and legal adherence.
-- Real-world examples, such as HIPAA, to illustrate the connection between legal and ethical duties.
-
-[View Project](https://adewaleolalekan.github.io/cybersecurity_portfolio/ethical_concepts/)
-
----
-
-<!--
-## How to Use
-1. Clone this repository to your local machine:
-   ```
-   git clone https://github.com/adewaleolalekan/cybersecurity_portfolio.git
-   ```
-
-2. Navigate to the repository folder:
-   ```
-   cd cybersecurity_portfolio
-   ```
-
-4. Open any of the <code>.html</code> files directly in your web browser.
--->
+**Thank you for visiting my portfolio!**  
+I'm continuously improving my skills and adding new projects — especially in **SIEM implementation** and **Cloud Security**.
