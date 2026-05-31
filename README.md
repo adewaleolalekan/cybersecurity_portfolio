@@ -72,7 +72,7 @@ Passionate about defensive security, I enjoy building practical skills in SOC op
 I'm actively looking for **remote cybersecurity opportunities**. Feel free to reach out!
 
 - Email: [adewale.olalekan@gmail.com](mailto:adewale.olalekan@gmail.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/adewale-olalekan-401455159/)
+- LinkedIn: [linkedin.com/in/adewale-olalekan-401455159](https://www.linkedin.com/in/adewale-olalekan-401455159/)
 - Portfolio Site: [adewaleolalekan.github.io/cybersecurity_portfolio](https://adewaleolalekan.github.io/cybersecurity_portfolio/)
 
 ---
