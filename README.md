@@ -13,9 +13,9 @@
 
 ## About Me
 
-I'm a certified cybersecurity professional focused on **defensive security** — detecting threats, investigating incidents, and building secure infrastructure. This portfolio documents hands-on projects covering the full range of a SOC analyst's work: from packet-level malware hunting to compliance audits, network design, and vulnerability assessment.
+I'm a certified cybersecurity professional focused on **offensive and defensive security** — detecting threats, investigating incidents, and building secure infrastructure. This portfolio documents hands-on projects covering the full range of a SOC analyst's work: from packet-level malware hunting to compliance audits, network design, and vulnerability assessment.
 
-I hold three industry certifications (Google, Microsoft, ISC2) and am actively seeking **remote SOC Analyst, Security Analyst, or Junior Security Engineer** roles.
+I hold three industry certifications (Google, Microsoft, ISC2) and am actively seeking remote **SOC Analyst, Security Analyst, or Cloud Security Engineer** roles.
 
 📍 Abuja, Nigeria (UTC+1) &nbsp;|&nbsp; ⚡ Available immediately &nbsp;|&nbsp; 🌐 Open to remote worldwide
 
@@ -172,7 +172,7 @@ Developed a practical GDPR compliance checklist for a fictional data-processing 
 ---
 
 ### 🟢 Equifax Data Breach — Case Study
-**[View Project →](https://adewaleolalekan/cybersecurity_portfolio/tree/main/equifax_data_breach/)**
+**[View Project →](https://adewaleolalekan.github.io/cybersecurity_portfolio/equifax_data_breach/))**
 
 Analytical case study of the 2017 Equifax breach — one of the largest data breaches in history, exposing 147 million records — examining root causes, failure points, and lessons learned.
 
